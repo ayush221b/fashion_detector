@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "722030509770",
+    "firebase_url": "https://fashionpredict.firebaseio.com",
+    "project_id": "fashionpredict",
+    "storage_bucket": "fashionpredict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722030509770:android:e638976885775231",
+        "android_client_info": {
+          "package_name": "tech.ayushshekhar.fashiondetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722030509770-da4ad4svmm7flijrgk0jekjg4ct8i624.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.ayushshekhar.fashiondetector",
+            "certificate_hash": "c26b92caa90184e2f67cde63dd50e1d9a4b7f439"
+          }
+        },
+        {
+          "client_id": "722030509770-9b7mdlurss127mtohqq3ek6bt58td5ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd464roe9I2TiJy0k_gTsTw1tRZH1KCtg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722030509770-9b7mdlurss127mtohqq3ek6bt58td5ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
