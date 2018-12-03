@@ -1,6 +1,6 @@
 # Fashion Detector
 
-Fashion Detector is a mobile app, built for the Android and iOS platform using the Flutter SDK by Google.
+Fashion Detector is a mobile app which can capture and predict fashion accessories and apparel near us. It is built for the Android and iOS platform using the Flutter SDK by Google.
 
 # Features!
 
